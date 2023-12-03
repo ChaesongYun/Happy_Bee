@@ -60,25 +60,56 @@
 
 - 게시글 및 댓글 작성이 가능합니다.
 - 주제별 원활한 소통을 지원하기 위해, 게시글을 카테고리에 따라 작성합니다. 관리자가 원할 경우, 카테고리를 편집할 수 있습니다.
+  <table>
+    <tr>
+      <td><img src="./readme_assets/게시판.png"></td>
+      <td><img src="./readme_assets/게시판2.png"></td>
+    </tr>
+  </table>
 
 2. 금융 상품 조회
 
 - 공시된 예금상품, 적금상품을 모두 조회할 수 있습니다.
 - 개성있는 디자인으로 은행별로 전체 상품을 조회할 수 있으며, 상품을 선택하면 해당 상품의 모든 옵션 또한 조회할 수 있습니다.
 - 은행, 가입기간에 따른 필터 조회를 지원합니다.
+  <table>
+    <tr>
+      <td><img src="./readme_assets/예금조회.png"></td>
+      <td><img src="./readme_assets/적금조회.png"></td>
+    </tr>
+    <tr>
+    <td><img src="./readme_assets/예금필터.png"></td>
+    <td><img src="./readme_assets/적금필터.png"></td>
+    </tr>
+  </table>
 
 3. 환율계산기
 
 - 50여 종 통화 간 환전 계산을 할 수 있습니다.
+  <img src="./readme_assets/환율계산기.png">
+- 프론트 단에서 처리하며 사용자가 요청할 때마다 api를 통해 가져온 환율을 그때그때 계산하여 보여줍니다.
+  <br>
+  <br>
 
 4. 영업점 찾기
 
 - 주소와 은행을 선택하면 해당 위치의 해당 은행을 검색하여 지도에 표시합니다.
+  <img src="./readme_assets/영업점 찾기.png">
+  <br>
+  <br>
 
 5. 금융 상품 일반 추천
 
 - 회원가입과 로그인 없이도 이용할 수 있는 서비스입니다.
 - 현재 공시된 상품들 중 우대 금리가 가장 높은 상품, 우대조건에 있어서 신규가입 또는 인터넷 가입에 대해 우대하는 상품, 가입 금액에 한도가 없는 상품을 조회할 수 있습니다.
+  <br>
+  <br>
+  <table>
+    <tr>
+      <td><img src="./readme_assets/예금일반추천.png"></td>
+      <td><img src="./readme_assets/적금일반추천.png"></td>
+    </tr>
+  </table>
 
 6. 금융 맞춤 추천
 
@@ -88,6 +119,11 @@
 <div id="5"></div>
 
 ## 협업 관리
+
+- 회의록: 노션
+  https://www.notion.so/1116_-48f617e36e6d4e98a9f8b259ac99c7d0?pvs=4
+  <br>
+  <br>
 
 <div id="6"></div>
 
